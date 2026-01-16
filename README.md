@@ -9,7 +9,7 @@ My aim is to use computation to provide insight into each problem and to make th
 | December 2025 | Robot Javelin | ✅ |
 | October 2025 | Robot Baseball | ✅ |
 | July 2025 | Robot Road Trip | ⏳ |
-| April 2025 | Sum One, Somewhere | ⏳ |
+| April 2025 | Sum One, Somewhere | ✅ |
 | November 2024 | Beside the Point | ⏳ |
 | August 2024 | Tree-edge Triage | ⏳ |
 | April 2024 | Robot Capture-the-Flag | ⏳ |
